@@ -1,2 +1,2 @@
-# First-Projetc
+# First-Project
 For practice
